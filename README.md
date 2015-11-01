@@ -8,5 +8,7 @@ These files are created within the framework of 'HTML, CSS y JavaScript' course 
 Game Instructions:
 
 -You have to find the face on the left side which is not included on the right side.
+
 -Each time you find the correct face, 5 new faces are added in both sides.
+
 -In case you click on the wrong face or other part of the page which is not de right face, you lose the game and the message "Game Over!" is shown as well as the rounds you have gor through.
