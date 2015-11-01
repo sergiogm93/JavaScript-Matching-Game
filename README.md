@@ -11,4 +11,4 @@ Game Instructions:
 
 -Each time you find the correct face, 5 new faces are added in both sides.
 
--In case you click on the wrong face or other part of the page which is not de right face, you lose the game and the message "Game Over!" is shown as well as the rounds you have gor through.
+-In case you click on the wrong face or other part of the page which is not the right face, you lose the game and the message "Game Over!" is shown as well as the rounds you have gor through.
